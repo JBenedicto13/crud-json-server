@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "name": "Juan Dela Cruz",
+      "email": "juan@gmail.com",
+      "number": "123",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Rimuru Tempest",
+      "email": "rimuru@gmail.com",
+      "number": "345345345"
+    },
+    {
+      "id": "3",
+      "name": "Jabami Yumeko",
+      "email": "jabami@gmail.com",
+      "number": "234234234"
+    },
+    {
+      "id": "4",
+      "name": "J Riz",
+      "email": "jriz@gmail.com",
+      "number": "5767567567"
+    }
+  ]
+}
